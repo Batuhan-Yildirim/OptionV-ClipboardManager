@@ -2,6 +2,8 @@
   <img src="OptionV.png" alt="OptionV Logo" width="120" height="120" />
   <h1>OptionV</h1>
   <p><strong>The ultimate clipboard manager for macOS. Fast, private, and breathtakingly beautiful.</strong></p>
+
+  🌐 [**OptionV**](https://www.optionv.app)
   
   <p>
     <a href="#features">Features</a> •
@@ -64,6 +66,13 @@ Keep your hands right where they are. Instantly search, select, strip formatting
 
 ---
 
+<div align="center">
+
+If you find my work useful &nbsp;→&nbsp; [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/batuhanyildirim)
+
+</div>
+
+--
 <div align="center">
   <p>Crafted with focus in Warsaw. © OptionV</p>
 </div>
