@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/OptionV.png" alt="OptionV Logo" width="120" height="120" />
+  <img src="OptionV.png" alt="OptionV Logo" width="120" height="120" />
   <h1>OptionV</h1>
   <p><strong>The ultimate clipboard manager for macOS. Fast, private, and breathtakingly beautiful.</strong></p>
   
